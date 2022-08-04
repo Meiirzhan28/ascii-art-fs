@@ -1,4 +1,4 @@
-# ascii-art-output
+# ascii-art-fs
 To run this program:  
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 go run . ["Your string"] [banner type] 
@@ -36,6 +36,5 @@ o  o o-o o o o-o         o   o  o o-o o   o-o $
                                               $
                                               $
 ```
-
 
 

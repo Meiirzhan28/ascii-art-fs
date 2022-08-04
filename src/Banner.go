@@ -11,7 +11,7 @@ import (
 func Banner(banner string) error {
 	switch banner {
 	case "standard":
-		if Hash(banner) == "ac85e83127e49ec42487f272d9b9db8b" {
+		if Hash(banner) == "a51f800619146db0c42d26db3114c99f" {
 			return nil
 		}
 	case "shadow":
